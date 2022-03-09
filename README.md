@@ -1,0 +1,2 @@
+# ModelosPreditivosVendas
+Para você que tem interesse em aprender como fazer análise e modelos preditivos no python, abaixo segue uma aplicação em dados de vendas de cosméticos que simula o que aparecerá na vida real. O material é composto um código onde faço a adição de variáveis a base de dados a se obter a predição e por outros dois códigos onde contém algumas análises exploratórias e modelagens através de Regressão, Suavização Exponencial, modelos de séries temporais como SARIMA e SARIMAX.
